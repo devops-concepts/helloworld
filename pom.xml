@@ -9,6 +9,11 @@
   <version>1.1</version>
   <packaging>jar</packaging>
 
+  <scm>
+      <connection>scm:git:https://github.com/devops-concepts/helloworld.git</connection>
+      <developerConnection>scm:git:https://github.com/devops-concepts/helloworld.git</developerConnection>
+  </scm>
+  
   <name>Hello World</name>
   <description>The most basic of Java programs.</description>
   <url>https://www.coveros.com/</url>

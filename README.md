@@ -10,3 +10,7 @@ To build
 To run
 ------
     java -cp target/helloworld-1.0.jar com.coveros.demo.helloworld.HelloWorld
+    
+Test
+------
+   To test Jenkins Poll SCM on this GIT Repo

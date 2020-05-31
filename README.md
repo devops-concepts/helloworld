@@ -13,4 +13,4 @@ To run
     
 Test
 ------
-   To test Jenkins Poll SCM on this GIT Repo
+   To test Jenkins Poll SCM on this GIT Repo of Master Branch
